@@ -2,6 +2,10 @@ import utils.Logger;
 
 import java.io.IOException;
 
+/**
+ * シンプルなHTTPサーバーです。
+ * java.netパッケージを使います。
+ */
 public class SimpleJavaHTTPServer {
 
     private static Logger logger = new Logger(SimpleJavaHTTPServer.class.getSimpleName());
