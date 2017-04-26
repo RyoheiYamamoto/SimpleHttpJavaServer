@@ -5,6 +5,7 @@ import java.io.IOException;
 /**
  * シンプルなHTTPサーバーです。
  * java.netパッケージを使います。
+ * issueと紐付いてます。
  */
 public class SimpleJavaHTTPServer {
 
